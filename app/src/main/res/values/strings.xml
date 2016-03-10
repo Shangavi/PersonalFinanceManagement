@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Category</string>
+    <string name="buttonADD">ADD</string>
+    <string name="ButtonCancel">Cancel</string>
+    <string name="title_activity_update_onlick_listener">UpdateOnlickListener</string>
+    <string name="title_activity_update_category_expense">UpdateCategoryExpense</string>
+    <string name="selectCountry">Select Category</string>
+    <string-array name="categories">
+        <item> Food </item>
+        <item> Clothes </item>
+        <item> Education </item>
+    </string-array>
+    <string name="title_activity_add_sub_category">addSubCategory</string>
+</resources>
